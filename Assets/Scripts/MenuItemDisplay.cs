@@ -22,7 +22,7 @@ public class MenuItemDisplay : MonoBehaviour
     public void Init(MenuItem menuItem)
     {
         energy.text = "Energy: " + menuItem.energy;
-
+         
         protein.text = "Protein: " + menuItem.protein;
         fatTotal.text = "Fat Total: " + menuItem.fatTotal;
         return;
