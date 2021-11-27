@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5707735247300958280
+  m_GuidHigh: 2668086016894419600
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4941343862302183030
+      m_GuidHigh: 4780801815329249175
+    m_SerializedTextureGuid:
+      m_GuidLow: 37215463135467792
+      m_GuidHigh: 17956136250427136586
+    m_Size: {x: 0.035, y: 0.035}
+    m_SpecifySize: 1
+    m_Name: ButtermilkCrispyChicken
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5309238703758713675
+      m_GuidHigh: 7037478993031666818
+    m_SerializedTextureGuid:
+      m_GuidLow: 1816310689491342506
+      m_GuidHigh: 15055916245938045115
+    m_Size: {x: 0.035, y: 0.035}
+    m_SpecifySize: 1
+    m_Name: ChickenMcCrispy
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5428068416618642138
+      m_GuidHigh: 8097026005920567688
+    m_SerializedTextureGuid:
+      m_GuidLow: 14646886122202457577
+      m_GuidHigh: 15999101367702133272
+    m_Size: {x: 0.035, y: 0.035}
+    m_SpecifySize: 1
+    m_Name: ChickenMcCrispy2PC
+    m_Texture: {fileID: 0}
