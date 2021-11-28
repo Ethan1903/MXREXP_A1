@@ -12,11 +12,11 @@ public class MenuItem : ScriptableObject
 
     public float protein;
 
-    public float fatTotal;
-    public float fatSaturated;
+    public float totalFat;
+    public float saturatedFat;
 
-    public float carbohydrateTotal;
-    public float carbohydrateSugars;
+    public float cholesterol;
+    public float carbohydrates;
 
     public float dietaryFibre;
     public float sodium;

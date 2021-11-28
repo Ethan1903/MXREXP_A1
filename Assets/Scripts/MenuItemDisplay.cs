@@ -10,28 +10,28 @@ public class MenuItemDisplay : MonoBehaviour
 
     public TextMeshProUGUI protein;
 
-    public TextMeshProUGUI fatTotal;
-    public TextMeshProUGUI fatSaturated;
+    public TextMeshProUGUI totalFat;
+    public TextMeshProUGUI saturatedFat;
 
-    public TextMeshProUGUI carbohydrateTotal;
-    public TextMeshProUGUI carbohydrateSugars;
+    public TextMeshProUGUI cholesterol;
+    public TextMeshProUGUI carbohydrates;
 
     public TextMeshProUGUI dietaryFibre;
     public TextMeshProUGUI sodium;
 
     public void Init(MenuItem menuItem)
     {
-        energy.text = "Energy: " + menuItem.energy;
+        energy.text = menuItem.energy.ToString();
          
-        protein.text = "Protein: " + menuItem.protein;
-        fatTotal.text = "Fat Total: " + menuItem.fatTotal;
-        return;
-        fatSaturated.text = "FatSaturated: " + menuItem.fatSaturated;
+        protein.text = menuItem.protein.ToString();
+        totalFat.text = menuItem.totalFat.ToString();
 
-        carbohydrateTotal.text = "carbohydratearbohydrate Total: " + menuItem.carbohydrateTotal;
-        carbohydrateSugars.text = "Carbohydrate Sugars: " + menuItem.carbohydrateSugars;
+        saturatedFat.text = menuItem.saturatedFat.ToString();
 
-        dietaryFibre.text = "Dietary Fibre: " + menuItem.dietaryFibre;
-        sodium.text = "Sodium: " + menuItem.sodium;
+        cholesterol.text = menuItem.cholesterol.ToString();
+        carbohydrates.text = menuItem.carbohydrates.ToString();
+
+        dietaryFibre.text = menuItem.dietaryFibre.ToString();
+        sodium.text = menuItem.sodium.ToString();
     }
 }
