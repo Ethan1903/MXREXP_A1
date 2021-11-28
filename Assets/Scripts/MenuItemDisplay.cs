@@ -6,6 +6,8 @@ using TMPro;
 
 public class MenuItemDisplay : MonoBehaviour
 {
+    public TextMeshProUGUI foodName;
+
     public TextMeshProUGUI energy;
 
     public TextMeshProUGUI protein;
@@ -21,6 +23,7 @@ public class MenuItemDisplay : MonoBehaviour
 
     public void Init(MenuItem menuItem)
     {
+        foodName.text = menuItem.menuItemName.ToString();
         energy.text = menuItem.energy.ToString();
          
         protein.text = menuItem.protein.ToString();
