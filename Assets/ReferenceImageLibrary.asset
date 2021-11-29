@@ -39,8 +39,8 @@ MonoBehaviour:
       m_GuidLow: 5002849774691322105
       m_GuidHigh: 6973811302951451026
     m_SerializedTextureGuid:
-      m_GuidLow: 12444661974160273993
-      m_GuidHigh: 10678742774770464043
+      m_GuidLow: 7013477163059007271
+      m_GuidHigh: 16606440646376606904
     m_Size: {x: 0.035, y: 0.035}
     m_SpecifySize: 1
     m_Name: Big Mac
@@ -49,8 +49,8 @@ MonoBehaviour:
       m_GuidLow: 5762101972967807057
       m_GuidHigh: 4659899699186193593
     m_SerializedTextureGuid:
-      m_GuidLow: 55207261345920395
-      m_GuidHigh: 9553006419857847576
+      m_GuidLow: 8076323624577507059
+      m_GuidHigh: 18329975027493732936
     m_Size: {x: 0.035, y: 0.035}
     m_SpecifySize: 1
     m_Name: Cheeseburger
@@ -59,8 +59,8 @@ MonoBehaviour:
       m_GuidLow: 5756897973671872785
       m_GuidHigh: 2079992568227553430
     m_SerializedTextureGuid:
-      m_GuidLow: 384158431437567332
-      m_GuidHigh: 14793279789709780362
+      m_GuidLow: 5927883977422077321
+      m_GuidHigh: 10404649599487747467
     m_Size: {x: 0.035, y: 0.035}
     m_SpecifySize: 1
     m_Name: Double Cheeseburger
@@ -89,8 +89,8 @@ MonoBehaviour:
       m_GuidLow: 5631298329891500873
       m_GuidHigh: 5693410909735073440
     m_SerializedTextureGuid:
-      m_GuidLow: 12070929527795277236
-      m_GuidHigh: 5047794624291783514
+      m_GuidLow: 4333662037641172944
+      m_GuidHigh: 5271327594719605450
     m_Size: {x: 0.035, y: 0.035}
     m_SpecifySize: 1
     m_Name: Chicken McNuggets 4pc Happy Meal
@@ -99,8 +99,8 @@ MonoBehaviour:
       m_GuidLow: 5567675550919731485
       m_GuidHigh: 1916424058231708811
     m_SerializedTextureGuid:
-      m_GuidLow: 12489758660254325986
-      m_GuidHigh: 15565758371924947754
+      m_GuidLow: 16466328766858813478
+      m_GuidHigh: 3223433620969840138
     m_Size: {x: 0.035, y: 0.035}
     m_SpecifySize: 1
     m_Name: Hamburger
@@ -109,59 +109,59 @@ MonoBehaviour:
       m_GuidLow: 5018322738131182756
       m_GuidHigh: 15045380428349340063
     m_SerializedTextureGuid:
-      m_GuidLow: 10535052369944791768
-      m_GuidHigh: 10693627714307406904
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+      m_GuidLow: 7999648725680391477
+      m_GuidHigh: 16257361105831631435
+    m_Size: {x: 0.035, y: 0.035}
+    m_SpecifySize: 1
     m_Name: Garden Side Salad
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5203265449983044178
       m_GuidHigh: 17464649269928185503
     m_SerializedTextureGuid:
-      m_GuidLow: 793960978714470054
-      m_GuidHigh: 5885494545840921482
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+      m_GuidLow: 9328288671571810582
+      m_GuidHigh: 960797843552434249
+    m_Size: {x: 0.035, y: 0.035}
+    m_SpecifySize: 1
     m_Name: McChicken
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5264596606358969761
       m_GuidHigh: 12215026018474457244
     m_SerializedTextureGuid:
-      m_GuidLow: 12079852344434230430
-      m_GuidHigh: 11999626845069921576
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+      m_GuidLow: 16907855316575492001
+      m_GuidHigh: 8424476319012964602
+    m_Size: {x: 0.035, y: 0.035}
+    m_SpecifySize: 1
     m_Name: McSpicy
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4902551470260993152
       m_GuidHigh: 17866423272351296149
     m_SerializedTextureGuid:
-      m_GuidLow: 3748310215318182996
-      m_GuidHigh: 5338346842541750489
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+      m_GuidLow: 16394432090243550323
+      m_GuidHigh: 2940671101329667049
+    m_Size: {x: 0.035, y: 0.035}
+    m_SpecifySize: 1
     m_Name: Double McSpicy
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4740885110624600728
       m_GuidHigh: 16014525874925882771
     m_SerializedTextureGuid:
-      m_GuidLow: 2748496352409337693
-      m_GuidHigh: 8987354082582869514
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+      m_GuidLow: 604707135661961534
+      m_GuidHigh: 4313514030010795385
+    m_Size: {x: 0.035, y: 0.035}
+    m_SpecifySize: 1
     m_Name: McWings
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5299783501043472837
       m_GuidHigh: 3441517906108517006
     m_SerializedTextureGuid:
-      m_GuidLow: 9535510074027363485
-      m_GuidHigh: 17235109134052757978
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+      m_GuidLow: 16930271959208529298
+      m_GuidHigh: 17495757275417005496
+    m_Size: {x: 0.035, y: 0.035}
+    m_SpecifySize: 1
     m_Name: Chicken McNuggets
     m_Texture: {fileID: 0}
