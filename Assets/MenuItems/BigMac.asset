@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ca625d4cb0d451459945e99a93cd888, type: 3}
-  m_Name: ChickenMcCrispy2PC
+  m_Name: BigMac
   m_EditorClassIdentifier: 
-  menuItemName: Chicken McCrispy 2PC
-  energy: 689
-  protein: 39
-  totalFat: 41
-  saturatedFat: 8.4
-  cholesterol: 135
-  carbohydrates: 42
-  dietaryFibre: 3.4
-  sodium: 1895
+  menuItemName: Big Mac
+  energy: 522
+  protein: 28
+  totalFat: 26
+  saturatedFat: 10.4
+  cholesterol: 178
+  carbohydrates: 43
+  dietaryFibre: 3
+  sodium: 970

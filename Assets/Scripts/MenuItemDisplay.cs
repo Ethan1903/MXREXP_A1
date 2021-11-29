@@ -24,17 +24,17 @@ public class MenuItemDisplay : MonoBehaviour
     public void Init(MenuItem menuItem)
     {
         foodName.text = menuItem.menuItemName.ToString();
-        energy.text = menuItem.energy.ToString();
+        energy.text = menuItem.energy.ToString("F1");
          
-        protein.text = menuItem.protein.ToString();
-        totalFat.text = menuItem.totalFat.ToString();
+        protein.text = menuItem.protein.ToString("F1");
+        totalFat.text = menuItem.totalFat.ToString("F1");
 
-        saturatedFat.text = menuItem.saturatedFat.ToString();
+        saturatedFat.text = menuItem.saturatedFat.ToString("F1");
 
-        cholesterol.text = menuItem.cholesterol.ToString();
-        carbohydrates.text = menuItem.carbohydrates.ToString();
+        cholesterol.text = menuItem.cholesterol.ToString("F1");
+        carbohydrates.text = menuItem.carbohydrates.ToString("F1");
 
-        dietaryFibre.text = menuItem.dietaryFibre.ToString();
-        sodium.text = menuItem.sodium.ToString();
+        dietaryFibre.text = menuItem.dietaryFibre.ToString("F1");
+        sodium.text = menuItem.sodium.ToString("F1");
     }
 }

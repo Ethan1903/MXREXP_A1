@@ -8,7 +8,7 @@ public class MenuItem : ScriptableObject
 {
     public string menuItemName;
 
-    public int energy;
+    public float energy;
 
     public float protein;
 

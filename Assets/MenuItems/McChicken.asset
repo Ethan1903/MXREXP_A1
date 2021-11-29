@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ca625d4cb0d451459945e99a93cd888, type: 3}
-  m_Name: ButtermilkCrispyChicken
+  m_Name: McChicken
   m_EditorClassIdentifier: 
-  menuItemName: ButtermilkCrispyChicken
-  energy: 11
-  protein: 12
-  fatTotal: 13
-  fatSaturated: 14
-  carbohydrateTotal: 15
-  carbohydrateSugars: 16
-  dietaryFibre: 17
-  sodium: 18
+  menuItemName: McChicken
+  energy: 385
+  protein: 15
+  totalFat: 17
+  saturatedFat: 3.2
+  cholesterol: 41
+  carbohydrates: 43
+  dietaryFibre: 3
+  sodium: 760

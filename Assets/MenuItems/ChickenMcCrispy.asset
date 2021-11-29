@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ca625d4cb0d451459945e99a93cd888, type: 3}
   m_Name: ChickenMcCrispy
   m_EditorClassIdentifier: 
-  menuItemName: ChickenMcCrispy
-  energy: 21
-  protein: 22
-  fatTotal: 23
-  fatSaturated: 24
-  carbohydrateTotal: 25
-  carbohydrateSugars: 26
-  dietaryFibre: 27
-  sodium: 28
+  menuItemName: Chicken McCrispy
+  energy: 2068
+  protein: 117
+  totalFat: 122
+  saturatedFat: 25.1
+  cholesterol: 406
+  carbohydrates: 125
+  dietaryFibre: 10.3
+  sodium: 5685
