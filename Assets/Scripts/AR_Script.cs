@@ -29,7 +29,7 @@ public class AR_Script : MonoBehaviour
 
             if (menuItem != null)
             {
-                DataStorage.dataStorageInstance.addedMenu = Img.transform.Find("Image1").gameObject;
+                DataStorage.dataStorageInstance.addedMenu = Img.gameObject.GetComponent<MenuItemDisplay>().addedMenu;
                 Img.gameObject.GetComponent<MenuItemDisplay>().Init(menuItem);
                 Img.gameObject.GetComponentInChildren<Button>().onClick.AddListener(DataStorage.dataStorageInstance.UpdateIntakeDisplay);
             }

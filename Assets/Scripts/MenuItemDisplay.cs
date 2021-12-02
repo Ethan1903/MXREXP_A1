@@ -21,6 +21,8 @@ public class MenuItemDisplay : MonoBehaviour
     public TextMeshProUGUI dietaryFibre;
     public TextMeshProUGUI sodium;
 
+    public GameObject addedMenu;
+
     public void Init(MenuItem menuItem)
     {
         foodName.text = menuItem.menuItemName.ToString();

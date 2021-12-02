@@ -779,6 +779,7 @@ MonoBehaviour:
   carbohydrates: {fileID: 1397533115332919731}
   dietaryFibre: {fileID: 6090908657448522809}
   sodium: {fileID: 4648419470542683040}
+  addedMenu: {fileID: 2752626259879305725}
 --- !u!1 &634331781090666453
 GameObject:
   m_ObjectHideFlags: 0
