@@ -542,8 +542,13 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
+<<<<<<< Updated upstream
   m_IsActive: 1
 --- !u!114 &875789393
+=======
+  m_IsActive: 0
+--- !u!114 &825539190
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -555,6 +560,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa850fbd5b8aded44846f96e35f1a9f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
 --- !u!114 &875789394
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -571,6 +577,12 @@ MonoBehaviour:
   m_MatchFrameRate: 1
   m_TrackingMode: 2
 --- !u!4 &875789395
+=======
+  itemsAdded: []
+  addedMenu: {fileID: 0}
+  displayInfo: {fileID: 0}
+--- !u!4 &825539191
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

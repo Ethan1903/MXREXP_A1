@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 using TMPro;
+using UnityEngine.UI;
 
 public class MenuItemDisplay : MonoBehaviour
 {
@@ -18,6 +19,7 @@ public class MenuItemDisplay : MonoBehaviour
 
     public TextMeshProUGUI dietaryFibre;
     public TextMeshProUGUI sodium;
+    public Button btn;
 
     public void Init(MenuItem menuItem)
     {

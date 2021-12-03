@@ -32,6 +32,7 @@ public class AR_Script : MonoBehaviour
             MenuItem menuItem = menuItems.Find(x => x.menuItemName == Img.referenceImage.name);
 
             if (menuItem != null)
+<<<<<<< Updated upstream
                 Img.gameObject.GetComponent<MenuItemDisplay>().Init(menuItem);
             else
             {
@@ -49,6 +50,18 @@ public class AR_Script : MonoBehaviour
 
                 if (!ifFound)
                     Debug.Log("Can't find");
+=======
+            {
+                //DataStorage.dataStorageInstance.addedMenu = Img.gameObject.GetComponent<MenuItemDisplay>().addedMenu;
+                //DataStorage.dataStorageInstance.displayInfo = Img.gameObject.GetComponent<DataDisplay>();
+                //DataStorage.dataStorageInstance.AddItemToData(menuItem);
+                Img.gameObject.GetComponent<MenuItemDisplay>().Init(menuItem);
+                
+                //Img.gameObject.GetComponentInChildren<Button>().onClick.AddListener(DataStorage.dataStorageInstance.UpdateIntakeDisplay);
+            }
+
+            Img.destroyOnRemoval = true;
+>>>>>>> Stashed changes
 
             }
 
