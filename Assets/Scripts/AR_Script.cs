@@ -4,7 +4,6 @@ using UnityEngine;
 
 using UnityEngine.XR;
 using UnityEngine.XR.ARFoundation;
-using UnityEngine.UI;
 
 public class AR_Script : MonoBehaviour
 {
@@ -28,14 +27,14 @@ public class AR_Script : MonoBehaviour
             MenuItem menuItem = menuItems.Find(x => x.menuItemName == Img.referenceImage.name);
 
             if (menuItem != null)
+<<<<<<< HEAD
             {
                 DataStorage.dataStorageInstance.addedMenu = Img.gameObject.GetComponent<MenuItemDisplay>().addedMenu;
+=======
+>>>>>>> parent of 4ab5b5f (Added Data Storage)
                 Img.gameObject.GetComponent<MenuItemDisplay>().Init(menuItem);
-                Img.gameObject.GetComponentInChildren<Button>().onClick.AddListener(DataStorage.dataStorageInstance.UpdateIntakeDisplay);
-            }
 
             Img.destroyOnRemoval = true;
-
 
             Debug.Log("Image name: " + Img.referenceImage.name);
         }
